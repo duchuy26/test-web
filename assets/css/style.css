@@ -115,9 +115,9 @@ a{
 }
 
 /* footer */
-/* .footer .body{
+.footer .body{
     display: flex;
-} */
+} 
 
 .footer .tongquan p{
     text-align: center;
@@ -141,3 +141,4 @@ a{
     margin-top: 10px;
 
 }
+
